@@ -138,12 +138,6 @@ http://localhost:8000
 ## Sam Banele Mahlangu
 
 
-Portfolio:
-https://sam-mahlangu-portfolio.netlify.app/
-
-LinkedIn:
-https://linkedin.com/in/sam-banele-mahlangu
-
 ---
 
 <div align="center">

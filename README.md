@@ -22,10 +22,8 @@
 
 #  Dashboard Preview
 
-> *Screenshots will be added here.*
-
 <p align="center">
-<img src="assets/dashboard.png" width="90%">
+<img src="assets/dashboard.jpg" width="90%">
 </p>
 
 ---

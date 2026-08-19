@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 Geospatial Residential Development Platform
+# Geospatial Residential Development Platform
 
 <img src="assets/banner.png" width="100%">
 
@@ -20,7 +20,7 @@
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 > *Screenshots will be added here.*
 
@@ -30,21 +30,21 @@
 
 ---
 
-# ✨ Features
+# Features
 
-- 📊 Interactive analytics dashboard
-- 🗺️ Geospatial suitability analysis
-- 🏘️ Residential parcel ranking
-- 🎯 High / Medium / Low suitability classification
-- 🔍 Spatial filtering tools
-- 📑 Automated report generation
-- 📈 KPI summaries
-- 📂 GeoJSON support
-- 🌙 Modern dark UI
+-  Interactive analytics dashboard
+-  Geospatial suitability analysis
+-  Residential parcel ranking
+-  High / Medium / Low suitability classification
+-  Spatial filtering tools
+-  Automated report generation
+-  KPI summaries
+-  GeoJSON support
+-  Modern dark UI
 
 ---
 
-# 🛰️ Technology Stack
+#  Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -55,7 +55,7 @@
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 geospatial-residential-development-platform/
@@ -73,7 +73,7 @@ geospatial-residential-development-platform/
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 Clone the repository
 
@@ -101,7 +101,7 @@ http://localhost:8000
 
 ---
 
-# 📊 Platform Modules
+#  Platform Modules
 
 - Dashboard
 - Analytics
@@ -112,7 +112,7 @@ http://localhost:8000
 
 ---
 
-# 🎯 Use Cases
+#  Use Cases
 
 - Residential development planning
 - Land suitability assessment
@@ -123,7 +123,7 @@ http://localhost:8000
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - PostgreSQL/PostGIS integration
 - Python backend
@@ -135,11 +135,10 @@ http://localhost:8000
 
 ---
 
-# 👨🏾‍💻 Author
+#  Author
 
 ## Sam Banele Mahlangu
 
-Geomatics Technologist • Geospatial Data Engineering • Infrastructure Intelligence
 
 Portfolio:
 https://sam-mahlangu-portfolio.netlify.app/
@@ -151,6 +150,5 @@ https://linkedin.com/in/sam-banele-mahlangu
 
 <div align="center">
 
-### ⭐ If you found this project interesting, consider giving it a star!
 
 </div>
